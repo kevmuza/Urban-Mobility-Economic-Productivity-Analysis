@@ -3,7 +3,7 @@ Portfolio of academic data analytics projects developed with Python
 
 # Projects
 
-  # 1) Urban Mobility & Economic Productivity Analysis (Python)
+  # Urban Mobility & Economic Productivity Analysis (Python)
   # 🧾 Executive Summary
 
   **Context & Objective:**  
