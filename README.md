@@ -46,39 +46,5 @@ Portfolio of academic data analytics projects developed with Python, SQL, Power 
 
 
 
-  # 2) Conversion Funnel & User Retention Analysis (SQL, Excel)
-  # 🧾 # Executive Summary – SQL Data Analysis and Optimization Project
-
- **Context and Objective**
  
-   I developed a data analysis project using SQL with the objective of extracting valuable insights from multiple data sources and generating information to support            decision-making. The project focused on data cleaning, transformation, and analysis using advanced SQL queries to identify patterns, trends, and opportunities for           improvement
-
-  **Methodology**
-
-  * Performed SQL queries for data extraction, transformation, and analysis from multiple tables.
-  * Used operations such as **JOIN, GROUP BY, WHERE, CASE WHEN, aggregations, and subqueries** to integrate and analyze data.
-  * Conducted data quality validations by reviewing missing values, duplicates, and inconsistencies.
-  * Built key metrics to evaluate user/product performance, behaviors, and trends within the dataset.
-
-  ## Main Analyses Performed
-
-  * Analyzed performance indicators and user/product behavior through structured SQL queries.
-  * Identified relevant patterns through data grouping and comparisons across different segments.
-  * Generated summarized information to facilitate the interpretation of large datasets.
-  * Optimized queries to improve data retrieval efficiency.
-
-  ## Results and Key Learnings
-
-  * Strengthened skills in relational database management and exploratory data analysis using SQL.
-  * Transformed raw data into meaningful information to support strategic decision-making.
-  * Improved the ability to interpret data from a business perspective by connecting technical metrics with organizational objectives.
-
-  ## Tools Used
-
-  * SQL
-  * Relational Databases
-  * Analytical Queries
-  * Data Cleaning and Transformation
-  * Metric Analysis
-
   
